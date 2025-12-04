@@ -1,0 +1,10 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+opencv-python
+opencv-contrib-python
+mediapipe
+numpy==1.26.4
+Pillow
+ollama
+PyQt5
